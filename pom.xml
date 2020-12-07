@@ -10,7 +10,8 @@
     <version>1.0</version>
     <modules>
         <module>clown-producer</module>
+        <module>clown-web</module>
+        <module>clown-common</module>
+        <module>clown-sql</module>
     </modules>
-
-
 </project>

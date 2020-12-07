@@ -11,5 +11,13 @@
 
     <artifactId>clown-producer</artifactId>
 
+    <dependencies>
+        <!--clown-common-->
+        <dependency>
+            <groupId>cn.clown</groupId>
+            <artifactId>clown-common</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
 
 </project>

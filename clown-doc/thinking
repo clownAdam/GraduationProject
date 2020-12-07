@@ -1,0 +1,9 @@
+数据产生、java
+数据收集、flume/file
+数据存储、mysql/hbase/hdfs
+数据清洗、spark/hive/hadoop
+数据分析、spark/hive/hadoop
+结果展示:echarts
+
+--------------version:1.0-----------------
+自定义产生数据--写入文件--flume读取---kafka下沉到hbase--hbase存储--hadoop/spark/flink进行数据分析写入mysql--从MySQL读取数据显示到页面（echarts）
